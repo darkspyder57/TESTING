@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"dev mf";
+    cout<<"dev is mf";
     return 0;
 }
